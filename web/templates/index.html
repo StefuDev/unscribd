@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+  <meta charset="utf-8" /><meta
+    name="viewport"
+    content="width=device-width,initial-scale=1"
+  /><title>unscribd</title>
+  <link rel="stylesheet" href="/static/style.css">
+  <main class="wrap">
+    <header class="top">
+      <span class="mark">unscribd</span>
+      <div class="tools">
+        <select id="lang" aria-label="Language">
+          <option value="en">English</option>
+          <option value="es">Español</option>
+          <option value="pt">Português</option>
+          <option value="fr">Français</option></select
+        ><button id="theme" class="theme" type="button">◐</button>
+      </div>
+    </header>
+    <section class="sheet">
+      <h1 data-t="title">From Scribd to somewhere yours.</h1>
+      <p data-t="intro">
+        Paste a Scribd link. We will prepare one downloadable file with its
+        original title.
+      </p>
+      <form id="f">
+        <label
+          ><span data-t="link">Scribd document link</span
+          ><input
+            name="url"
+            type="url"
+            required
+            placeholder="https://www.scribd.com/document/" /></label
+        ><label
+          ><span data-t="type">File type</span
+          ><select name="format">
+            <option value="pdf" data-t="search">Searchable PDF</option>
+            <option value="text" data-t="text">Text PDF</option>
+          </select></label
+        ><button id="b" data-t="prepare">Prepare my PDF</button>
+      </form>
+      <div class="notice" id="s" role="status"></div>
+    </section>
+  </main>
+  <script src="/static/app.js"></script>
+</html>

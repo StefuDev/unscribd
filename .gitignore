@@ -1,0 +1,23 @@
+# Build and profiling artifacts
+/bin/
+*.pgo
+*.prof
+*.pprof
+coverage.out
+
+# Downloaded documents and intermediate page artwork
+*.pdf
+*_images/
+
+# Local runtime data and secrets
+.env
+.env.*
+!.env.example
+.cache/
+tmp/
+
+# Editor and operating-system files
+.DS_Store
+.idea/
+.vscode/
+*~

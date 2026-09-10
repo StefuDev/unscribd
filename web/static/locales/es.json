@@ -1,0 +1,23 @@
+{
+  "title": "De Scribd a un lugar propio.",
+  "intro": "Pega un enlace de Scribd. Prepararemos un archivo descargable con su título original.",
+  "link": "Enlace del documento de Scribd",
+  "type": "Tipo de archivo",
+  "search": "PDF con búsqueda",
+  "text": "PDF de texto",
+  "prepare": "Preparar mi PDF",
+  "idle": "Pega un enlace arriba cuando estés listo.",
+  "starting": "Iniciando tu descarga…",
+  "next": "Eres el siguiente en la fila",
+  "waiting": "Esperando en la fila",
+  "one": "Hay una descarga antes que la tuya.",
+  "many": "Hay {n} descargas antes que la tuya.",
+  "start": "Tu documento empezará cuando termine la descarga actual.",
+  "running": "Preparando tu documento…",
+  "ready": "Tu archivo está listo.",
+  "failed": "No se pudo completar la descarga. Inténtalo de nuevo.",
+  "retry": "¿La descarga no empezó? Guarda tu PDF aquí.",
+  "unable": "No se pudo iniciar.",
+  "dark": "Usar modo oscuro",
+  "light": "Usar modo claro"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "De Scribd à un endroit bien à vous.",
+  "intro": "Collez un lien Scribd. Nous préparerons un fichier téléchargeable avec son titre d’origine.",
+  "link": "Lien du document Scribd",
+  "type": "Type de fichier",
+  "search": "PDF avec recherche",
+  "text": "PDF texte",
+  "prepare": "Préparer mon PDF",
+  "idle": "Collez un lien ci-dessus lorsque vous êtes prêt.",
+  "starting": "Démarrage de votre téléchargement…",
+  "next": "Vous êtes le prochain dans la file",
+  "waiting": "En attente dans la file",
+  "one": "Un téléchargement est devant le vôtre.",
+  "many": "{n} téléchargements sont devant le vôtre.",
+  "start": "Votre document démarrera dès la fin du téléchargement en cours.",
+  "running": "Préparation de votre document…",
+  "ready": "Votre fichier est prêt.",
+  "failed": "Le téléchargement n’a pas pu être terminé. Réessayez.",
+  "retry": "Le téléchargement n’a pas commencé ? Enregistrez votre PDF ici.",
+  "unable": "Impossible de démarrer.",
+  "dark": "Utiliser le mode sombre",
+  "light": "Utiliser le mode clair"
+}

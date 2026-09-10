@@ -1,0 +1,23 @@
+{
+  "title": "From Scribd to somewhere yours.",
+  "intro": "Paste a Scribd link. We will prepare one downloadable file with its original title.",
+  "link": "Scribd document link",
+  "type": "File type",
+  "search": "Searchable PDF",
+  "text": "Text PDF",
+  "prepare": "Prepare my PDF",
+  "idle": "Paste a link above when you are ready.",
+  "starting": "Starting your download…",
+  "next": "You are next in line",
+  "waiting": "Waiting in line",
+  "one": "One download is ahead of yours.",
+  "many": "{n} downloads are ahead of yours.",
+  "start": "Your document will start as soon as the current download finishes.",
+  "running": "Preparing your document…",
+  "ready": "Your file is ready.",
+  "failed": "The download could not be completed. Please try again.",
+  "retry": "Download did not start? Save your PDF here.",
+  "unable": "Unable to start.",
+  "dark": "Use dark mode",
+  "light": "Use light mode"
+}
